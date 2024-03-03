@@ -21,5 +21,5 @@ pnpm-debug.log*
 .DS_Store
 
 # workspace
-.vscode/
+.vscode
 README.md
