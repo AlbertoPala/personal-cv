@@ -37,7 +37,7 @@ const printInfo = [email, phone, linkedInURL].filter(Boolean).join(' • ');
                     email && (
                         <a
                             href={`mailto:${email}`}
-                            title={`enviar correo electronico a ${name} al correo${email}`}
+                            title={`send an eemail to ${name} at this e-mail direction ${email}`}
                             target='_blank'
                             rel='noopender noreferrer'>
                             <Mail />
@@ -48,7 +48,7 @@ const printInfo = [email, phone, linkedInURL].filter(Boolean).join(' • ');
                     phone && (
                         <a
                             href={`tel:${phone}`}
-                            title={`Llamar por telefono a ${name} al numero ${phone}`}>
+                            title={`Call to ${name} at his number ${phone}`}>
                             <Phone />
                         </a>
                     )
@@ -59,7 +59,7 @@ const printInfo = [email, phone, linkedInURL].filter(Boolean).join(' • ');
                         return (
                             <a
                                 href={url}
-                                title={`visitar el perfil de ${name} en ${network}`}
+                                title={`see ${name}'s profile in ${network}`}
                                 target='_blank'
                                 rel='noopener noreferrer'>
                                 <Icon />
@@ -70,7 +70,7 @@ const printInfo = [email, phone, linkedInURL].filter(Boolean).join(' • ');
             </footer>
         </div>
         <figure>
-            <img src={image} alt={`foto de perfil de ${name}`} />
+            <img src={image} alt={`${name}'s profile picture`} />
         </figure>
     </div>
 </Section>

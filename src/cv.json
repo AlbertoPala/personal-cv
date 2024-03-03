@@ -22,7 +22,7 @@
             },
             {
                 "network": "GitHub",
-                "username": "midudev",
+                "username": "AlbertoPala",
                 "url": "https://github.com/AlbertoPala/"
             }
         ]
@@ -31,7 +31,7 @@
         {
             "name": "Tyson Trading Company",
             "position": "Data Engineer",
-            "url": "https://twitch.tv/midudev",
+            "url": "",
             "startDate": "2023-06-12",
             "endDate": null,
             "summary": "As a data engineer, my role involved extracting information from a source and loading it into our data lake. Subsequently, I performed the necessary transformations to ensure that data visualization teams could consume it effectively.",
@@ -70,9 +70,10 @@
     "certificates": [
         {
             "name": "Certificate",
-            "date": "2021-11-07",
-            "issuer": "Company",
-            "url": "https://certificate.com"
+            "date": "2021-11-27",
+            "description": "International conference of undergraduate students ICUS 2021",
+            "issuer": "Soft Computing Research Society",
+            "url": "https://www.icus21.scrs.in"
         }
     ],
     "publications": [
@@ -94,6 +95,61 @@
                 "JavaScript Library",
                 "UI"
             ]
+        },
+        {
+            "name": "SQL",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "CSS",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "GraphQL",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "GIT",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "GitHub",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "GitLab",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "BigQuery",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "GCP",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "AWS",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "Typescript",
+            "level": "",
+            "keywords": []
+        },
+        {
+            "name": "JAVA",
+            "level": "",
+            "keywords": []
         }
     ],
     "languages": [
@@ -120,11 +176,11 @@
     ],
     "projects": [
         {
-            "name": "mars.codes",
+            "name": "SHORT URL",
             "isActive": true,
-            "description": "Historia interactiva con retos de programación para viajar a Marte",
-            "highlights": ["Elige tu propia aventura", "En desarrollo"],
-            "url": "https://mars.codes"
+            "description": "A project aimed at gaining a better understanding of how a full-stack developer works, the norms they follow, and their mindset.",
+            "highlights": ["Fullstack", "Frontend", "Backend", "developing"],
+            "url": "/"
         }
     ]
 }
