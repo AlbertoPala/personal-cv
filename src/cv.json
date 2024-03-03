@@ -6,7 +6,7 @@
         "email": "palaciosquezadajosealberto@gmail.com",
         "phone": "+52 8715805929",
         "url": "",
-        "summary": "Ingeniero en sistemas especializado en el desarrollo de aplicaciones web y entusiasta de la inenieria de datos",
+        "summary": "I am looking for a challenging position as a Fullstack Developer where I can utilize my technical skills and knowledge to design and develop responsive and visually appealing websites and web applications using modern technologies.",
         "location": {
             "address": "",
             "postalCode": "",
@@ -23,36 +23,19 @@
             {
                 "network": "GitHub",
                 "username": "midudev",
-                "url": "https://github.com/midudev"
+                "url": "https://github.com/AlbertoPala/"
             }
         ]
     },
     "work": [
         {
-            "name": "midudev",
-            "position": "Divulgador sobre Programación Web",
+            "name": "Tyson Trading Company",
+            "position": "Data Engineer",
             "url": "https://twitch.tv/midudev",
-            "startDate": "2021-01-01",
+            "startDate": "2023-06-12",
             "endDate": null,
-            "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
-            "highlights": ["Started the company"]
-        },
-        {
-            "name": "Adevinta",
-            "position": "Lead Frontend Architect",
-            "url": "https://twitch.tv/midudev",
-            "startDate": "2016-06-01",
-            "endDate": "2022-09-01",
-            "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-            "highlights": ["Started the company"]
-        },
-        {
-            "name": "Hubii",
-            "position": "Senior FrontEnd Developer",
-            "startDate": "2011-03-01",
-            "endDate": "2016-05-01",
-            "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
-            "highlights": ["Started the company"]
+            "summary": "As a data engineer, my role involved extracting information from a source and loading it into our data lake. Subsequently, I performed the necessary transformations to ensure that data visualization teams could consume it effectively.",
+            "highlights": ["My first job"]
         }
     ],
     "volunteer": [
@@ -68,14 +51,12 @@
     ],
     "education": [
         {
-            "institution": "Universitat Oberta de Catalunya",
-            "url": "https://www.uoc.edu/portal/es/index.html",
-            "area": "Ingeniero de Software",
+            "institution": "Instituto Tecnologico de la Laguna",
+            "url": "http://www.itlalaguna.edu.mx/",
+            "area": "software engineer",
             "studyType": "Bachelor",
-            "startDate": "2003-01-01",
-            "endDate": "2009-01-01",
-            "score": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
+            "startDate": "2018-06-01",
+            "endDate": "2023-06-01"
         }
     ],
     "awards": [
